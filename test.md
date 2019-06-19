@@ -38,7 +38,7 @@
 - `__METHOD__`：类的方法名。
 - `__FUNCTION__`：函数名称。
 - `__LINE__`：文件中的当前行号。
-- 
+
 ## Apache 和 Nginx 有什么区别?
 
 - Apache支持模块动态和静态编译,Nginx只支持静态编译
